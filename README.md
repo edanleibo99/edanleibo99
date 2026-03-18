@@ -55,7 +55,7 @@ You can check out the repository [here](PROJECT_1_REPO_LINK_HERE).
 
 ---
 
-## Get in Touch <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Love%20Letter.png" alt="Love Letter" width="25" height="25" />
+## Get in Touch 💌
 
 - **Personal Website / Portfolio**: [Link](www.google.com)
 - **LinkedIn**: [Linkedin](https://www.linkedin.com/in/edan-leibovitz-a0b2b3ba)
