@@ -6,8 +6,8 @@ I'm a passionate **QA Automation Engineer** with experience in **Python, Playwri
 I love turning manual test cases into reliable automation, learning new cloud & DevOps tools, and collaborating with teams to ship high‑quality products.
 
 - 🌍 Programming Languages: **Python, JavaScript, Bash**
-- ✉️ How to reach me: **edanleibo99@gmail.com**
 - 🌱 Currently learning: **DevOps fundamentals**
+- ✉️ How to reach me: **edanleibo99@gmail.com**
 
 
 ---
@@ -28,8 +28,11 @@ I love turning manual test cases into reliable automation, learning new cloud & 
 <!-- DevOps & Cloud (learning) -->
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=000000)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-E00?style=flat-square&logo=ansible&logoColor=white)
+
 
 <!-- Tools -->
 ![Git](https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white)
